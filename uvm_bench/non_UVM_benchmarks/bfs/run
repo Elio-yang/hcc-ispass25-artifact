@@ -1,0 +1,2 @@
+#!/bin/bash
+./main 5 </shared/uvm_bench/data/bfs/inputGen/graph16M.txt

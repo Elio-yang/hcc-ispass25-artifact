@@ -1,0 +1,1 @@
+sudo  numactl --cpunodebind=0 --physcpubind=0-15 --membind=0 ./start-qemu-vmonly.sh -i build/ubuntu-22.04/guest-image/td-guest-ubuntu-22.04.qcow2 -b grub -t efi

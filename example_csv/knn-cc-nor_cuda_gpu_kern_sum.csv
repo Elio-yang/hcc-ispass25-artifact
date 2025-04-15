@@ -1,0 +1,4 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+94.1,4072715716,1000,4072715.7,4072392.5,4048103,4099945,11122.4,"cuInsertionSort(float *, int *, int, int, int)"
+5.8,252155236,1000,252155.2,252164.0,251012,253540,522.6,"cuComputeDistanceGlobal(float *, int, float *, int, int, float *)"
+0.0,2101093,1000,2101.1,2080.0,2047,2336,61.8,"cuParallelSqrt(float *, int, int)"

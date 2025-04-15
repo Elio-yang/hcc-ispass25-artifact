@@ -1,0 +1,2 @@
+#!/bin/bash
+./nn list42k_4.txt -r 5 -lat 30 -lng 90

@@ -1,0 +1,5 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+47.8,334384448,10000,33438.4,33345.0,32256,35456,455.7,"std::enable_if<!T7, void>::type internal::gemvx::kernel<int, int, float, float, float, float, (bool)0, (bool)1, (bool)1, (bool)0, (int)7, (bool)0, cublasGemvParamsEx<int, cublasGemvTensorStridedBatched<const float>, cublasGemvTensorStridedBatched<const float>, cublasGemvTensorStridedBatched<float>, float>>(T13)"
+46.6,325905316,10000,32590.5,30560.0,29600,19672896,196423.2,"std::enable_if<!T7, void>::type internal::gemvx::kernel<int, int, float, float, float, float, (bool)0, (bool)1, (bool)0, (bool)0, (int)7, (bool)0, cublasGemvParamsEx<int, cublasGemvTensorStridedBatched<const float>, cublasGemvTensorStridedBatched<const float>, cublasGemvTensorStridedBatched<float>, float>>(T13)"
+3.0,21092007,10000,2109.2,2112.0,2047,2432,26.2,"ComputeCost(float *, const unsigned short *, unsigned int)"
+2.5,17608526,10000,1760.9,1760.0,1696,2272,22.4,"void axpy_kernel_val<float, float>(cublasAxpyParamsVal<T1, T1, T2>)"

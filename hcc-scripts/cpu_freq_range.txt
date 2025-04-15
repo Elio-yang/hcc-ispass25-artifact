@@ -1,0 +1,192 @@
+CPU 0:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 1:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 2:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 3:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 4:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 5:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 6:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 7:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 8:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 9:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 10:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 11:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 12:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 13:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 14:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 15:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 16:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 17:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 18:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 19:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 20:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 21:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 22:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 23:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 24:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 25:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 26:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 27:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 28:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 29:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 30:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 31:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 32:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 33:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 34:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 35:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 36:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 37:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 38:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 39:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 40:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 41:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 42:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 43:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 44:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 45:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 46:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 47:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 48:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 49:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 50:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 51:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 52:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 53:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 54:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 55:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 56:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 57:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 58:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 59:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 60:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 61:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 62:
+  Min : 800000 kHz
+  Max : 2101000 kHz
+CPU 63:
+  Min : 800000 kHz
+  Max : 2101000 kHz

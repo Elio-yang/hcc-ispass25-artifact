@@ -1,0 +1,4 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+89.4,1553423853,2048,758507.7,735682.0,1216,1170053,102248.2,"gramschmidt_kernel3(float *, float *, float *, int)"
+6.9,120283334,2048,58732.1,23167.5,22848,53906132,1192008.1,"gramschmidt_kernel1(float *, float *, float *, int)"
+3.7,64260186,2048,31377.0,2336.0,1984,59581097,1316518.2,"gramschmidt_kernel2(float *, float *, float *, int)"

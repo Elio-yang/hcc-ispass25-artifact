@@ -1,0 +1,200 @@
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 715.018480
+Training complete
+
+
+ Time - 715.018480
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 716.201647
+Training complete
+
+
+ Time - 716.201647
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 714.995607
+Training complete
+
+
+ Time - 714.995607
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 715.903801
+Training complete
+
+
+ Time - 715.903801
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 717.837786
+Training complete
+
+
+ Time - 717.837786
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 715.537690
+Training complete
+
+
+ Time - 715.537690
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 712.257045
+Training complete
+
+
+ Time - 712.257045
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 716.482571
+Training complete
+
+
+ Time - 716.482571
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 714.358781
+Training complete
+
+
+ Time - 714.358781
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 713.951324
+Training complete
+
+
+ Time - 713.951324
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 712.827572
+Training complete
+
+
+ Time - 712.827572
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 715.635105
+Training complete
+
+
+ Time - 715.635105
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 714.872424
+Training complete
+
+
+ Time - 714.872424
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 716.313218
+Training complete
+
+
+ Time - 716.313218
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 716.171478
+Training complete
+
+
+ Time - 716.171478
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 716.559250
+Training complete
+
+
+ Time - 716.559250
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 715.533089
+Training complete
+
+
+ Time - 715.533089
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 718.376147
+Training complete
+
+
+ Time - 718.376147
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425312e-01, time_on_gpu: 716.398279
+Training complete
+
+
+ Time - 716.398279
+save to file
+Testing!
+Error Rate: 0.00%
+Data loading done!
+Learning
+error: 2.425313e-01, time_on_gpu: 714.199479
+Training complete
+
+
+ Time - 714.199479
+save to file
+Testing!
+Error Rate: 0.00%

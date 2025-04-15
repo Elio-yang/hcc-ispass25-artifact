@@ -1,0 +1,5 @@
+Time (%),Total Time (ns),Num Calls,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+93.0,184518769,2,92259384.5,92259384.5,89319,184429450,130348156.7,cudaMallocManaged
+6.1,12092409,2,6046204.5,6046204.5,226499,11865910,8230306.4,cudaFree
+0.9,1806382,255,7083.9,4874.0,3697,464289,28870.7,cudaLaunchKernel
+0.0,4012,1,4012.0,4012.0,4012,4012,0.0,cuModuleGetLoadingMode

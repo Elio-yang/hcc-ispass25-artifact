@@ -1,0 +1,2 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+100.0,599282,254,2359.4,2368.0,2080,2752,113.2,"convolution3D_kernel(float *, float *, int)"

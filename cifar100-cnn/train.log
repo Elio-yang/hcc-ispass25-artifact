@@ -1,0 +1,32 @@
+started
+train1024.sh finished
+train512.sh finished
+train256.sh finished
+train128.sh finished
+train64.sh finished
+test1.sh finished
+test1.sh finished
+stable train few finished
+test1.sh finished
+test1.sh finished
+stable train few finished
+fp 16 with bs1024 finished
+fp 16 with bs1024 finished
+cc started
+cc started
+cc started
+cc fp32 vgg16 finished
+cc fp16  vgg16 done
+cc fp32 resnet50 finished
+cc fp16 resnet50 done
+cc fp32 mobilenetv2 finished
+cc fp16  mobilenetv2 done
+cc fp32 squeezenet finished
+cc fp16  squeezenet done
+cc fp32 attention92 finished
+cc fp16  attention92 done
+cc fp32 inceptionv4 finished
+cc fp16  inceptionv4 done
+cc started
+cc fp32 b2048 finished
+cc train512.sh finished

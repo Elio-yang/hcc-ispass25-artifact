@@ -1,0 +1,3 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+50.3,169155437,1,169155437.0,169155437.0,169155437,169155437,0.0,"genScoreKernel(int, float *, int *, float *)"
+49.7,166847758,4500,37077.3,34400.0,4671,82402,16273.2,"computeKernel(int, int, float *, bool *, int, int, float *, int *)"

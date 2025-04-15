@@ -1,0 +1,9 @@
+Start (ns),Duration (ns),CorrId,GrdX,GrdY,GrdZ,BlkX,BlkY,BlkZ,Reg/Trd,StcSMem (MB),DymSMem (MB),Bytes (MB),Throughput (MB/s),SrcMemKd,DstMemKd,Device,Ctx,GreenCtx,Strm,Name
+1330763819,11424,124,,,,,,,,,,0.400,35014.000,Pinned,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1330889103,935202,126,,,,,,,,,,39.600,42332.400,Pinned,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1351889896,9504,127,463,1,1,256,1,1,17,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"dynproc_kernel(int, int *, int *, int *, int, int, int, int)"
+1351903912,9536,128,463,1,1,256,1,1,17,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"dynproc_kernel(int, int *, int *, int *, int, int, int, int)"
+1351914472,10401,129,463,1,1,256,1,1,17,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"dynproc_kernel(int, int *, int *, int *, int, int, int, int)"
+1351925929,11200,130,463,1,1,256,1,1,17,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"dynproc_kernel(int, int *, int *, int *, int, int, int, int)"
+1351938473,12065,131,463,1,1,256,1,1,17,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"dynproc_kernel(int, int *, int *, int *, int, int, int, int)"
+1351953866,10912,132,,,,,,,,,,0.400,36656.800,Device,Pinned,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Device-to-Host]

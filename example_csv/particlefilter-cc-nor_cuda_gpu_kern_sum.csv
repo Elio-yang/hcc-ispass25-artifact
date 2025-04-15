@@ -1,0 +1,5 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+52.6,1236054,9,137339.3,137186.0,136131,138946,926.1,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+28.7,674350,9,74927.8,83682.0,39105,88418,18153.2,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+18.0,421638,9,46848.7,46817.0,46785,46977,74.9,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+0.7,15648,9,1738.7,1664.0,1632,2272,208.6,"sum_kernel(double *, int)"

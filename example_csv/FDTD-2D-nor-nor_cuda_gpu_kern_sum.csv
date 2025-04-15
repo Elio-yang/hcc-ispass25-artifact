@@ -1,0 +1,4 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+37.2,11165199,500,22330.4,22336.0,21760,23201,307.5,"fdtd_step3_kernel(float *, float *, float *, int)"
+34.3,10305401,500,20610.8,20545.0,20160,21600,242.0,"fdtd_step2_kernel(float *, float *, float *, int)"
+28.5,8575486,500,17151.0,17120.0,15104,18145,212.3,"fdtd_step1_kernel(float *, float *, float *, float *, int)"

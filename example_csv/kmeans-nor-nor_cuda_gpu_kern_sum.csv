@@ -1,0 +1,6 @@
+Time (%),Total Time (ns),Instances,Avg (ns),Med (ns),Min (ns),Max (ns),StdDev (ns),Name
+99.3,18141608997,100,181416090.0,181452216.5,181175409,181512832,95845.3,"recenter_step1(float *, float *, int *, int *, float *, float *, int *, int)"
+0.4,66172782,100,661727.8,661693.0,661628,662300,89.8,"get_dst(float *, float *, float *, float *, float *)"
+0.4,66160657,100,661606.6,661565.0,661532,661885,78.2,"regroup(int *, float *, int)"
+0.0,180134,100,1801.3,1824.0,1632,1952,82.6,"recenter_step2(float *, float *, float *, float *, int *, int *)"
+0.0,138218,100,1382.2,1408.0,1216,1632,88.4,"clear(float *, float *, int *, int *)"

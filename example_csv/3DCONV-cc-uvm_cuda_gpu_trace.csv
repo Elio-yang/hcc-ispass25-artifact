@@ -1,0 +1,738 @@
+Start (ns),Duration (ns),CorrId,GrdX,GrdY,GrdZ,BlkX,BlkY,BlkZ,Reg/Trd,StcSMem (MB),DymSMem (MB),Bytes (MB),Throughput (MB/s),SrcMemKd,DstMemKd,Device,Ctx,GreenCtx,Strm,Name
+1567108838,586234730,122,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+1965774069,6782,0,,,,,,,,,,0.061,9059.267,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965780852,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965782932,6175,0,,,,,,,,,,0.061,9949.778,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965789108,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965790932,7583,0,,,,,,,,,,0.078,10262.884,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965798516,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965800308,6527,0,,,,,,,,,,0.057,8785.617,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965806836,6399,0,,,,,,,,,,0.053,8321.278,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965813236,1822,0,,,,,,,,,,0.004,2248.077,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+1965815059,8417,0,,,,,,,,,,0.066,7786.136,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122476726,7743,0,,,,,,,,,,0.131,16927.687,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122484470,6431,0,,,,,,,,,,0.066,10190.586,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122490902,2079,0,,,,,,,,,,0.008,3940.352,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122492982,5311,0,,,,,,,,,,0.041,7712.276,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122498294,1822,0,,,,,,,,,,0.004,2248.077,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122500117,4191,0,,,,,,,,,,0.037,8795.972,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122504309,3199,0,,,,,,,,,,0.025,7682.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122507509,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122509333,3007,0,,,,,,,,,,0.020,6810.767,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122512341,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122514165,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122516021,2655,0,,,,,,,,,,0.016,6170.984,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122518677,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122520469,2047,0,,,,,,,,,,0.008,4001.948,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122522517,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122524341,3007,0,,,,,,,,,,0.016,5448.614,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2122527349,20511,0,,,,,,,,,,0.262,12780.569,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2153344783,11599249,123,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2164945409,230695763,124,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2384891853,5695,0,,,,,,,,,,0.135,23734.419,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384897549,2879,0,,,,,,,,,,0.033,11381.703,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384900429,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384902285,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384904141,1919,0,,,,,,,,,,0.004,2134.442,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384906061,3935,0,,,,,,,,,,0.074,18736.423,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384909997,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2384911885,51838,0,,,,,,,,,,0.791,15249.285,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2395642324,84303206,125,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2479946681,1985,126,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2479949946,1983,127,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2479953305,18000298,128,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2497857382,12734,0,,,,,,,,,,0.139,10936.263,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2497870117,12096,0,,,,,,,,,,0.123,10158.612,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2497954979,27987205,129,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2516540925,12607,0,,,,,,,,,,0.139,11046.560,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2516553533,11328,0,,,,,,,,,,0.123,10847.355,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2525943720,132034534,130,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2564180864,10527,0,,,,,,,,,,0.139,13229.105,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2564191392,9343,0,,,,,,,,,,0.115,12275.286,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2564200736,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2564202528,18335,0,,,,,,,,,,0.266,14520.730,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2657979694,15045398,131,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2673026532,141258997,132,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2814105598,6015,0,,,,,,,,,,0.135,22471.815,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2814111614,3359,0,,,,,,,,,,0.057,17071.710,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2814114974,1919,0,,,,,,,,,,0.004,2134.442,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2814116894,51678,0,,,,,,,,,,0.852,16485.581,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2814287001,55200062,133,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2869488631,1952,134,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2869491959,1984,135,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2869495447,20283374,136,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2889685863,12415,0,,,,,,,,,,0.139,11217.297,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2889698279,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2889700071,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2889702343,10912,0,,,,,,,,,,0.115,10510.238,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2889780293,30339399,137,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2909772666,13183,0,,,,,,,,,,0.139,10563.871,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2909785850,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2909787962,2398,0,,,,,,,,,,0.004,1708.089,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2909790361,10785,0,,,,,,,,,,0.115,10633.986,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2920121100,131822154,138,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+2957351422,11679,0,,,,,,,,,,0.139,11924.201,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+2957363102,27487,0,,,,,,,,,,0.385,14007.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3051944790,14760574,139,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3066706804,140098994,140,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3206597195,5759,0,,,,,,,,,,0.135,23470.707,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206602955,3935,0,,,,,,,,,,0.057,14572.773,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206606891,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206608683,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206610539,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206612363,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206614155,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206616011,2303,0,,,,,,,,,,0.020,8892.744,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206618315,1919,0,,,,,,,,,,0.004,2134.442,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206620235,57726,0,,,,,,,,,,0.811,14049.092,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3206807142,56184931,141,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3262993545,1984,142,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3262997097,1952,143,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3263000617,19846905,144,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3282756228,12127,0,,,,,,,,,,0.139,11483.709,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3282768356,11328,0,,,,,,,,,,0.123,10847.355,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3282848866,30286856,145,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3302743258,12799,0,,,,,,,,,,0.139,10880.836,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3302756058,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3302758170,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3302760570,10848,0,,,,,,,,,,0.115,10572.169,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3313137290,132648661,146,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3350779283,12382,0,,,,,,,,,,0.139,11247.239,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3350791666,27519,0,,,,,,,,,,0.385,13991.002,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3445787551,13510047,147,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3459298974,144134920,148,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3603244267,5951,0,,,,,,,,,,0.135,22713.360,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3603250219,3551,0,,,,,,,,,,0.057,16148.644,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3603253771,1983,0,,,,,,,,,,0.012,6196.666,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3603255755,1983,0,,,,,,,,,,0.012,6196.666,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3603257739,2079,0,,,,,,,,,,0.012,5910.528,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3603259819,46847,0,,,,,,,,,,0.819,17486.643,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3603435239,56810866,149,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3660247641,1952,150,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3660251001,1952,151,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3660254457,19657822,152,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3679824634,11038,0,,,,,,,,,,0.139,12616.761,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3679835673,11680,0,,,,,,,,,,0.123,10520.494,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3679913623,29360097,153,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3698989573,13374,0,,,,,,,,,,0.139,10412.909,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3699002948,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3699005060,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3699007492,10240,0,,,,,,,,,,0.115,11199.971,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3709275128,130383728,154,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3745876923,11966,0,,,,,,,,,,0.139,11638.292,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3745888890,31200,0,,,,,,,,,,0.385,12340.404,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3839660359,13595773,155,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3853257604,138184964,156,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+3991254637,6111,0,,,,,,,,,,0.135,22118.756,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3991260749,3391,0,,,,,,,,,,0.057,16910.631,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3991264141,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3991265997,3135,0,,,,,,,,,,0.033,10452.304,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3991269133,1887,0,,,,,,,,,,0.008,4341.277,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3991271021,47518,0,,,,,,,,,,0.811,17066.852,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+3991443944,57221256,157,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4048666737,1983,158,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4048670288,1952,159,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4048673744,19199050,160,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4067783548,13567,0,,,,,,,,,,0.139,10264.871,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4067797116,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4067799228,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4067801660,11232,0,,,,,,,,,,0.115,10210.787,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4067874138,30037967,161,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4087673269,11998,0,,,,,,,,,,0.139,11607.237,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4087685268,2112,0,,,,,,,,,,0.004,1939.390,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4087687381,2430,0,,,,,,,,,,0.004,1685.594,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4087689812,11264,0,,,,,,,,,,0.115,10181.771,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4097913673,131056510,162,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4134446574,12511,0,,,,,,,,,,0.139,11131.232,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4134459086,27743,0,,,,,,,,,,0.385,13878.190,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4228971719,13253542,163,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4242226797,140713730,164,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4382742228,5695,0,,,,,,,,,,0.131,23015.195,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4382747924,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4382750292,2078,0,,,,,,,,,,0.012,5913.367,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4382752371,3423,0,,,,,,,,,,0.045,13162.705,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4382755795,1727,0,,,,,,,,,,0.004,2371.740,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4382757523,50815,0,,,,,,,,,,0.852,16765.878,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4382941903,60412852,165,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4443356131,1984,166,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4443359683,2048,167,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4443363171,19314983,168,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4462581197,12190,0,,,,,,,,,,0.139,11424.383,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4462593388,1856,0,,,,,,,,,,0.004,2206.896,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4462595245,2366,0,,,,,,,,,,0.004,1731.191,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4462597612,11136,0,,,,,,,,,,0.115,10298.753,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4462679594,29742999,169,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4481680570,14238,0,,,,,,,,,,0.147,10356.425,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4481694809,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4481696921,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4481699321,10848,0,,,,,,,,,,0.106,9817.014,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4492423969,131030239,170,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4530775510,12927,0,,,,,,,,,,0.139,10773.045,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4530788438,30783,0,,,,,,,,,,0.385,12507.505,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4623455616,14531492,171,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4637988484,140713186,172,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4778504491,6079,0,,,,,,,,,,0.135,22235.136,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4778510571,3615,0,,,,,,,,,,0.057,15862.784,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4778514187,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4778515979,56478,0,,,,,,,,,,0.852,15084.945,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4778703174,58925659,173,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4837630209,2273,174,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4837633953,2272,175,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4837637601,19277640,176,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4856817868,10559,0,,,,,,,,,,0.139,13188.997,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4856828428,11871,0,,,,,,,,,,0.123,10351.165,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4856916713,29698552,177,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4877437873,11711,0,,,,,,,,,,0.139,11891.614,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4877449585,2110,0,,,,,,,,,,0.004,1941.230,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4877451696,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4877454064,11328,0,,,,,,,,,,0.115,10124.198,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4886616737,126511764,178,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+4926352914,12767,0,,,,,,,,,,0.139,10907.992,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+4926365682,26751,0,,,,,,,,,,0.385,14392.582,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5013130037,12438619,179,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5025570032,141426286,180,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5166808803,3839,0,,,,,,,,,,0.070,18138.022,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5166812643,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5166814499,3551,0,,,,,,,,,,0.061,17302.118,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5166818051,3679,0,,,,,,,,,,0.057,15586.787,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5166821731,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5166823555,48479,0,,,,,,,,,,0.852,17573.544,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5166997662,58680418,181,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5225679616,2272,182,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5225683392,2336,183,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5225687264,35973331,184,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5261551414,10399,0,,,,,,,,,,0.139,13392.044,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5261561814,10847,0,,,,,,,,,,0.123,11328.430,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5261662003,30961975,185,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5280372330,10111,0,,,,,,,,,,0.139,13773.488,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5280382442,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5280384298,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5280386538,9088,0,,,,,,,,,,0.115,12619.694,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5292625354,114305811,186,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5328117962,10719,0,,,,,,,,,,0.139,12992.217,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5328128682,24511,0,,,,,,,,,,0.385,15708.209,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5406932733,12611670,187,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5419545747,145506436,188,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5564868540,5727,0,,,,,,,,,,0.135,23601.820,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5564874268,3327,0,,,,,,,,,,0.057,17235.943,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5564877596,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5564879484,44287,0,,,,,,,,,,0.852,19236.585,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5565053623,65058587,189,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5630113618,2144,190,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5630117170,2176,191,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5630120818,20192688,192,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5650225764,10079,0,,,,,,,,,,0.139,13817.217,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5650235844,9952,0,,,,,,,,,,0.123,12347.228,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5650315010,29444574,193,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5670178107,11326,0,,,,,,,,,,0.147,13019.185,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5670189434,8608,0,,,,,,,,,,0.115,13323.420,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5679761088,106830999,194,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5716399234,10463,0,,,,,,,,,,0.139,13310.018,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5716409698,23615,0,,,,,,,,,,0.385,16303.841,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5786593495,12558743,195,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5799153711,140215214,196,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+5939179042,5534,0,,,,,,,,,,0.131,23684.841,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5939184577,3903,0,,,,,,,,,,0.061,15741.727,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5939188481,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5939190273,47679,0,,,,,,,,,,0.852,17868.325,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+5939370397,65304820,197,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6004676721,2240,198,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6004680465,2272,199,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6004684113,19901528,200,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6024495275,11007,0,,,,,,,,,,0.139,12652.274,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6024506283,9215,0,,,,,,,,,,0.123,13334.692,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6024586984,29523677,201,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6044526463,10911,0,,,,,,,,,,0.139,12763.546,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6044537375,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6044539647,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6044542015,8576,0,,,,,,,,,,0.115,13373.080,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6054112069,113888222,202,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6090493549,10079,0,,,,,,,,,,0.139,13817.217,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6090503629,23808,0,,,,,,,,,,0.385,16171.778,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6168001795,13286949,203,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6181290216,142427092,204,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6323495970,5727,0,,,,,,,,,,0.135,23601.820,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6323501698,4030,0,,,,,,,,,,0.057,14229.225,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6323505729,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6323507521,46463,0,,,,,,,,,,0.852,18336.055,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6323718812,74566658,205,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6398286974,2208,206,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6398290750,2272,207,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6398294398,20120594,208,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6418314483,10814,0,,,,,,,,,,0.139,12878.021,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6418325298,10304,0,,,,,,,,,,0.123,11925.381,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6418416528,30391845,209,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6438849018,11071,0,,,,,,,,,,0.139,12579.160,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6438860090,1790,0,,,,,,,,,,0.004,2288.267,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6438861881,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6438864185,9280,0,,,,,,,,,,0.115,12358.550,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6448809941,114953571,210,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6486811156,10143,0,,,,,,,,,,0.139,13730.038,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6486821300,24031,0,,,,,,,,,,0.385,16021.619,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6563765048,11800523,211,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6575567011,142759628,212,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6718128564,5663,0,,,,,,,,,,0.135,23868.506,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6718134228,3711,0,,,,,,,,,,0.057,15452.430,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6718137940,1727,0,,,,,,,,,,0.004,2371.740,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6718139668,44863,0,,,,,,,,,,0.852,18990.367,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6718328015,87009117,213,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6805338668,2304,214,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6805342412,2176,215,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6805346060,19708093,216,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6824954571,9919,0,,,,,,,,,,0.139,14040.039,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6824964491,9119,0,,,,,,,,,,0.123,13475.144,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6825055624,28346363,217,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6844421358,10623,0,,,,,,,,,,0.139,13109.617,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6844431982,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6844434254,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6844436590,8672,0,,,,,,,,,,0.115,13225.017,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6853403427,120660653,218,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6890196001,9439,0,,,,,,,,,,0.139,14754.046,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6890205441,23392,0,,,,,,,,,,0.385,16459.391,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+6974065648,11170428,219,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+6985237612,142965349,220,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7127971032,5726,0,,,,,,,,,,0.135,23605.875,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7127976759,3359,0,,,,,,,,,,0.057,17071.710,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7127980119,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7127981943,41375,0,,,,,,,,,,0.852,20591.215,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7128204401,68612990,221,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7196818927,2272,222,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7196822703,2304,223,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7196826575,19462627,224,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7216202900,10623,0,,,,,,,,,,0.139,13109.617,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7216213524,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7216215316,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7216217556,8928,0,,,,,,,,,,0.115,12845.859,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7216290578,29790997,225,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7236076717,10686,0,,,,,,,,,,0.139,13032.325,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7236087404,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7236089676,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7236092108,8512,0,,,,,,,,,,0.115,13473.661,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7246083079,113206031,226,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7282848005,9439,0,,,,,,,,,,0.139,14754.046,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7282857445,23424,0,,,,,,,,,,0.385,16437.060,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7359290550,13065291,227,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7372357217,140385609,228,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7512545007,5758,0,,,,,,,,,,0.135,23474.762,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7512550766,3808,0,,,,,,,,,,0.057,15058.821,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7512554575,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7512556463,44542,0,,,,,,,,,,0.852,19126.682,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7512744297,55984265,229,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7568730098,2239,230,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7568733841,2272,231,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7568737489,18913170,232,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7587538470,10526,0,,,,,,,,,,0.139,13230.359,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7587548997,9216,0,,,,,,,,,,0.123,13333.217,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7587652195,29158181,233,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7607774324,9791,0,,,,,,,,,,0.139,14223.589,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7607784116,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7607785940,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7607788276,9120,0,,,,,,,,,,0.115,12575.425,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7616811784,112758332,234,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7654437904,9599,0,,,,,,,,,,0.139,14508.106,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7654447504,23519,0,,,,,,,,,,0.385,16370.450,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7729571715,13232454,235,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7742805545,141539659,236,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7884163801,5535,0,,,,,,,,,,0.135,24420.532,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7884169337,3807,0,,,,,,,,,,0.057,15062.778,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7884173145,1790,0,,,,,,,,,,0.004,2288.267,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7884174936,43839,0,,,,,,,,,,0.852,19433.390,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7884346708,65197143,237,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7949545259,2272,238,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7949549035,2176,239,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7949552715,20144817,240,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7969609342,9919,0,,,,,,,,,,0.139,14040.039,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7969619262,9856,0,,,,,,,,,,0.123,12467.528,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7969699004,30597056,241,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+7990333632,10207,0,,,,,,,,,,0.147,14446.412,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7990343840,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7990345632,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+7990347936,8448,0,,,,,,,,,,0.106,12606.038,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8000297532,107766910,242,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8037909476,9823,0,,,,,,,,,,0.139,14177.214,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8037919300,23455,0,,,,,,,,,,0.385,16415.113,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8108065913,12592983,243,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8120660304,141874114,244,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8262352695,5503,0,,,,,,,,,,0.135,24562.594,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8262358199,45375,0,,,,,,,,,,0.913,20129.686,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8262535858,53678820,245,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8316216055,2399,246,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8316219958,2272,247,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8316223606,350857961,248,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8549233737,10016,0,,,,,,,,,,0.131,13086.228,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8666942979,13024,0,,,,,,,,,,0.131,10063.839,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8667083103,114153111,249,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8687376429,12446,0,,,,,,,,,,0.139,11189.445,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8687388876,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8687391148,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8687393548,12223,0,,,,,,,,,,0.115,9382.855,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8781237654,105301502,250,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8819004378,12767,0,,,,,,,,,,0.139,10907.992,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8819017146,31103,0,,,,,,,,,,0.385,12378.907,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+8886540660,12099044,251,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+8898641080,142360789,252,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9040793235,5630,0,,,,,,,,,,0.135,24008.405,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9040798866,3391,0,,,,,,,,,,0.057,16910.631,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9040802258,1759,0,,,,,,,,,,0.004,2328.592,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9040804018,3327,0,,,,,,,,,,0.037,11080.249,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9040807346,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9040809234,55007,0,,,,,,,,,,0.811,14743.314,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9041003341,54945443,253,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9095950320,2336,254,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9095954032,2432,255,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9095957872,20006997,256,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9115858343,12447,0,,,,,,,,,,0.139,11188.470,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9115870791,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9115872615,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9115874951,11840,0,,,,,,,,,,0.115,9686.434,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9115966277,29618169,257,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9135560164,12319,0,,,,,,,,,,0.139,11304.755,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9135572484,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9135574756,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9135577156,11488,0,,,,,,,,,,0.115,9983.246,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9145585950,124721507,258,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9182237599,10655,0,,,,,,,,,,0.139,13070.205,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9182248255,10847,0,,,,,,,,,,0.115,10573.201,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9182259103,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9182260991,19680,0,,,,,,,,,,0.266,13528.453,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9270308896,11991623,259,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9282302055,142780138,260,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9424875607,5823,0,,,,,,,,,,0.135,23212.671,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9424881431,3454,0,,,,,,,,,,0.057,16602.178,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9424884886,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9424886678,3327,0,,,,,,,,,,0.037,11080.249,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9424890006,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9424891862,55039,0,,,,,,,,,,0.811,14734.393,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9425083569,41555203,261,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9466640244,2464,262,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9466644116,2400,263,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9466647988,19565505,264,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9486108600,12862,0,,,,,,,,,,0.139,10827.497,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9486121463,12576,0,,,,,,,,,,0.123,9770.926,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9486214997,28719954,265,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9505761751,13118,0,,,,,,,,,,0.139,10616.234,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9505774870,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9505777142,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9505779574,12288,0,,,,,,,,,,0.115,9333.309,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9514936487,111395235,266,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9553358684,13151,0,,,,,,,,,,0.139,10589.495,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9553371836,9502,0,,,,,,,,,,0.115,12069.880,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9553381339,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9553383195,20703,0,,,,,,,,,,0.266,12859.924,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9626333130,11733742,267,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9638068216,138328068,268,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9776197985,6143,0,,,,,,,,,,0.135,22003.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9776204129,4479,0,,,,,,,,,,0.102,22862.234,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9776208609,1887,0,,,,,,,,,,0.008,4341.277,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9776210497,57214,0,,,,,,,,,,0.803,14031.618,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9776397852,52133230,269,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9828532587,2400,270,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9828536523,2335,271,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9828540234,19818939,272,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9848268583,13087,0,,,,,,,,,,0.139,10641.302,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9848281671,13247,0,,,,,,,,,,0.123,9275.965,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9848360613,28887566,273,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9867907942,14111,0,,,,,,,,,,0.139,9869.083,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9867922054,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9867924326,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9867926758,12288,0,,,,,,,,,,0.115,9333.309,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9877249650,84981622,274,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9914986617,12095,0,,,,,,,,,,0.139,11514.069,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9914998713,29951,0,,,,,,,,,,0.385,12854.796,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+9962232712,13438304,275,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+9975672552,138878934,276,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10114350755,5759,0,,,,,,,,,,0.135,23470.707,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10114356515,1983,0,,,,,,,,,,0.004,2065.555,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10114358499,2719,0,,,,,,,,,,0.016,6025.740,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10114361219,60639,0,,,,,,,,,,0.893,14725.276,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10114552862,65495922,277,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10180050160,2304,278,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10180053872,2176,279,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10180057552,19607680,280,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10199572850,12607,0,,,,,,,,,,0.139,11046.560,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10199585458,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10199587314,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10199589618,11552,0,,,,,,,,,,0.115,9927.967,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10199666608,29828661,281,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10219245425,12606,0,,,,,,,,,,0.139,11047.395,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10219258032,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10219260304,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10219262736,10336,0,,,,,,,,,,0.115,11095.949,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10229496837,119612428,282,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10267533348,11326,0,,,,,,,,,,0.139,12295.897,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10267544675,27711,0,,,,,,,,,,0.385,13893.976,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10349110802,12437371,283,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10361549645,142486871,284,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10503835529,5727,0,,,,,,,,,,0.135,23601.820,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10503841257,3295,0,,,,,,,,,,0.057,17403.331,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10503844553,1695,0,,,,,,,,,,0.004,2416.517,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10503846249,3359,0,,,,,,,,,,0.041,12194.079,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10503849609,2015,0,,,,,,,,,,0.004,2032.751,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10503851625,54174,0,,,,,,,,,,0.807,14894.789,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10504038020,64423854,285,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10568463442,2304,286,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10568467154,2112,287,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10568470802,19812090,288,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10588178127,11231,0,,,,,,,,,,0.139,12399.927,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10588189359,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10588191183,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10588193007,12543,0,,,,,,,,,,0.115,9143.501,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10588284236,29061162,289,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10608187429,12606,0,,,,,,,,,,0.139,11047.395,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10608200036,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10608202308,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10608204676,10560,0,,,,,,,,,,0.115,10860.495,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10617346869,104878766,290,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10655540848,11935,0,,,,,,,,,,0.139,11668.513,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10655552784,10655,0,,,,,,,,,,0.115,10763.698,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10655563440,1822,0,,,,,,,,,,0.004,2248.077,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10655565263,20768,0,,,,,,,,,,0.266,12819.722,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10722227203,13155208,291,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10735383756,142765007,292,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10877938913,5631,0,,,,,,,,,,0.131,23276.814,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877944545,3423,0,,,,,,,,,,0.061,17949.143,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877947969,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877949825,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877951649,2463,0,,,,,,,,,,0.029,11641.061,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877954113,1919,0,,,,,,,,,,0.004,2134.442,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877956033,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10877957921,60126,0,,,,,,,,,,0.811,13487.874,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10878150171,49303705,293,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10927455316,2240,294,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10927459060,2208,295,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10927462708,19918232,296,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10947289006,12767,0,,,,,,,,,,0.139,10907.992,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10947301774,10720,0,,,,,,,,,,0.123,11462.615,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10947382284,30590881,297,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+10967544541,13471,0,,,,,,,,,,0.139,10337.985,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10967558013,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10967560285,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10967562685,11839,0,,,,,,,,,,0.115,9687.237,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+10977974669,93690738,298,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11014986502,11455,0,,,,,,,,,,0.139,12157.469,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11014997958,27840,0,,,,,,,,,,0.385,13829.677,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11071667007,11592561,299,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11083260912,139066156,300,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11222115394,5758,0,,,,,,,,,,0.135,23474.762,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11222121153,3552,0,,,,,,,,,,0.057,16144.114,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11222124706,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11222126562,3198,0,,,,,,,,,,0.037,11527.188,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11222129761,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11222131649,57183,0,,,,,,,,,,0.811,14182.097,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11222328572,57921622,301,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11280251634,2272,302,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11280255346,2272,303,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11280258994,20368267,304,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11300536352,13023,0,,,,,,,,,,0.139,10693.665,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11300549376,1822,0,,,,,,,,,,0.004,2248.077,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11300551199,2015,0,,,,,,,,,,0.004,2032.751,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11300553215,9440,0,,,,,,,,,,0.115,12149.129,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11300628797,30533794,305,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11321047720,10014,0,,,,,,,,,,0.139,13906.903,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11321057735,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11321059527,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11321061863,8800,0,,,,,,,,,,0.115,13032.686,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11331164191,91131698,306,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11369262011,10175,0,,,,,,,,,,0.139,13686.866,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11369272187,24287,0,,,,,,,,,,0.385,15852.978,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11422297425,11580721,307,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11433879554,144532253,308,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11578211684,5599,0,,,,,,,,,,0.135,24141.410,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11578217284,3775,0,,,,,,,,,,0.057,15190.426,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11578221060,2239,0,,,,,,,,,,0.020,9146.921,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11578223300,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11578225156,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11578227044,44447,0,,,,,,,,,,0.827,18614.665,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11578413184,50545718,309,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11628960470,2208,310,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11628964182,2272,311,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11628967862,35533439,312,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11664382584,10463,0,,,,,,,,,,0.139,13310.018,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11664393048,9919,0,,,,,,,,,,0.123,12388.270,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11664502741,31360748,313,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11683675808,10846,0,,,,,,,,,,0.147,13595.296,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11683686655,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11683688479,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11683690783,8448,0,,,,,,,,,,0.106,12606.038,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11695864993,90748156,314,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11730192512,10174,0,,,,,,,,,,0.139,13688.119,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11730202687,8287,0,,,,,,,,,,0.115,13839.401,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11730210975,1759,0,,,,,,,,,,0.004,2328.592,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11730212735,17535,0,,,,,,,,,,0.266,15183.135,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11786614652,12814066,315,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11799430253,141584171,316,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+11940828093,5663,0,,,,,,,,,,0.135,23868.506,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11940833757,3455,0,,,,,,,,,,0.057,16597.361,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11940837213,1759,0,,,,,,,,,,0.004,2328.592,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11940838973,44383,0,,,,,,,,,,0.852,19195.691,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+11941015800,59746278,317,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12000763646,2240,318,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12000767390,2272,319,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12000771006,19444068,320,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12020128676,11071,0,,,,,,,,,,0.139,12579.160,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12020139748,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12020142020,2430,0,,,,,,,,,,0.004,1685.594,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12020144451,9088,0,,,,,,,,,,0.115,12619.694,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12020216577,28992139,321,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12039946142,10558,0,,,,,,,,,,0.139,13190.250,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12039956701,2272,0,,,,,,,,,,0.004,1802.813,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12039958974,2398,0,,,,,,,,,,0.004,1708.089,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12039961373,8608,0,,,,,,,,,,0.115,13323.420,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12049210091,99141473,322,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12086507836,10079,0,,,,,,,,,,0.139,13817.217,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12086517916,23647,0,,,,,,,,,,0.385,16281.895,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12148352940,12887599,323,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12161241947,141703271,324,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12302757479,5471,0,,,,,,,,,,0.135,24706.142,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12302762951,2431,0,,,,,,,,,,0.008,3369.804,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12302765383,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12302767783,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12302769607,1887,0,,,,,,,,,,0.004,2170.638,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12302771495,45311,0,,,,,,,,,,0.893,19706.028,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12302946658,58659523,325,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12361607653,2336,326,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12361611365,2304,327,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12361615205,19794522,328,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12381317378,11006,0,,,,,,,,,,0.139,12653.388,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12381328385,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12381330657,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12381333057,8864,0,,,,,,,,,,0.115,12938.527,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12381411135,29607194,329,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12401136795,10335,0,,,,,,,,,,0.139,13474.906,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12401147131,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12401149435,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12401151803,8512,0,,,,,,,,,,0.115,13473.661,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12411019897,95854966,330,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12446928142,9535,0,,,,,,,,,,0.139,14605.451,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12446937678,8255,0,,,,,,,,,,0.115,13893.075,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12446945934,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12446947758,16991,0,,,,,,,,,,0.266,15669.289,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12506876367,13281125,331,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12520158932,144065322,332,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12664016611,5791,0,,,,,,,,,,0.135,23340.945,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664022403,3711,0,,,,,,,,,,0.057,15452.430,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664026115,1727,0,,,,,,,,,,0.004,2371.740,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664027843,2847,0,,,,,,,,,,0.016,5754.814,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664030691,1983,0,,,,,,,,,,0.008,4131.111,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664032675,1695,0,,,,,,,,,,0.004,2416.517,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664034371,1950,0,,,,,,,,,,0.004,2100.511,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664036322,1920,0,,,,,,,,,,0.004,2133.332,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664038243,1982,0,,,,,,,,,,0.008,4133.192,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664040226,43679,0,,,,,,,,,,0.807,18473.443,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12664225694,52977559,333,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12717204757,2272,334,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12717208597,2463,335,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12717212405,20256014,336,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12737366758,10654,0,,,,,,,,,,0.139,13071.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12737377413,9184,0,,,,,,,,,,0.123,13379.789,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12737469763,30032655,337,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12757563413,10335,0,,,,,,,,,,0.139,13474.906,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12757573749,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12757576021,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12757578421,8192,0,,,,,,,,,,0.115,13999.964,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12767503794,95729465,338,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12805210488,10783,0,,,,,,,,,,0.139,12915.065,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12805221272,23391,0,,,,,,,,,,0.385,16460.161,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+12863234667,11550706,339,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+12874786781,139826073,340,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13014417979,5567,0,,,,,,,,,,0.135,24280.093,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13014423547,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13014425819,2398,0,,,,,,,,,,0.008,3416.179,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13014428218,3167,0,,,,,,,,,,0.045,14226.702,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13014431386,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13014433210,43231,0,,,,,,,,,,0.852,19706.872,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13014614422,57186601,341,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13071802399,2432,342,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13071806334,2208,343,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13071809983,19762587,344,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13091473212,10559,0,,,,,,,,,,0.139,13188.997,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13091483772,9248,0,,,,,,,,,,0.123,13287.137,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13091573914,29951185,345,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13111731435,11167,0,,,,,,,,,,0.139,12470.952,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13111742603,1790,0,,,,,,,,,,0.004,2288.267,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13111744394,2272,0,,,,,,,,,,0.004,1802.813,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13111746667,8927,0,,,,,,,,,,0.115,12847.235,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13121526603,91144209,346,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13159810498,10719,0,,,,,,,,,,0.139,12992.217,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13159821218,23295,0,,,,,,,,,,0.385,16527.925,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13212672380,12570327,347,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13225244243,142267417,348,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13367279506,5694,0,,,,,,,,,,0.135,23738.610,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367285201,3615,0,,,,,,,,,,0.057,15862.784,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367288817,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367290673,1855,0,,,,,,,,,,0.004,2208.084,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367292529,2527,0,,,,,,,,,,0.029,11346.256,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367295057,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367297489,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367299313,41727,0,,,,,,,,,,0.811,19435.807,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13367513196,54368274,349,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13421883006,2304,350,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13421886718,2112,351,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13421890398,19939542,352,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13441741591,10495,0,,,,,,,,,,0.139,13269.492,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13441752087,10175,0,,,,,,,,,,0.123,12076.646,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13441831444,30045743,353,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13461716365,10046,0,,,,,,,,,,0.139,13862.617,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13461726412,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13461728204,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13461730316,8992,0,,,,,,,,,,0.115,12754.338,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13471878595,107235980,354,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13511712209,9951,0,,,,,,,,,,0.139,13994.918,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13511722161,23679,0,,,,,,,,,,0.385,16259.949,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13579116047,12547416,355,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13591664807,139710939,356,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13731175815,5663,0,,,,,,,,,,0.135,23868.506,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13731181479,3807,0,,,,,,,,,,0.057,15062.778,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13731185287,1727,0,,,,,,,,,,0.004,2371.740,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13731187015,2879,0,,,,,,,,,,0.020,7113.564,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13731189895,2015,0,,,,,,,,,,0.012,6098.252,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13731191911,43934,0,,,,,,,,,,0.819,18645.811,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13731377058,53393004,357,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13784771598,2239,358,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13784775374,2176,359,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13784779021,20380363,360,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13805066331,10431,0,,,,,,,,,,0.139,13350.961,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13805076763,1791,0,,,,,,,,,,0.004,2286.989,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13805078555,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13805080859,9024,0,,,,,,,,,,0.115,12709.151,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13805160761,29323297,361,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13824937908,10782,0,,,,,,,,,,0.139,12916.318,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13824948691,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13824950963,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13824953395,8544,0,,,,,,,,,,0.115,13423.198,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13834485434,106232710,362,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13871873640,9663,0,,,,,,,,,,0.139,14412.014,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13871883304,3519,0,,,,,,,,,,0.029,8147.751,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13871886824,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13871889224,21535,0,,,,,,,,,,0.352,16357.360,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+13940719744,11298041,363,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+13952019129,139610333,364,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14091444539,5567,0,,,,,,,,,,0.135,24280.093,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14091450107,3743,0,,,,,,,,,,0.057,15320.310,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14091453851,1759,0,,,,,,,,,,0.004,2328.592,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14091455611,43039,0,,,,,,,,,,0.852,19794.625,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14091631030,53541608,365,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14145174206,2337,366,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14145177919,2271,367,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14145181567,19213481,368,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14164305802,10591,0,,,,,,,,,,0.139,13149.168,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14164316394,9856,0,,,,,,,,,,0.123,12467.528,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14164396552,29635385,369,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14184589464,9599,0,,,,,,,,,,0.139,14508.106,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14184599064,1823,0,,,,,,,,,,0.004,2246.844,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14184600888,2302,0,,,,,,,,,,0.004,1779.319,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14184603191,8768,0,,,,,,,,,,0.115,13080.281,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14194033505,115530067,370,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14231740551,10015,0,,,,,,,,,,0.139,13905.510,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14231750567,23327,0,,,,,,,,,,0.385,16505.209,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14309564948,13124297,371,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14322690621,144463423,372,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14466968257,5663,0,,,,,,,,,,0.139,24591.794,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14466973921,3710,0,,,,,,,,,,0.053,14352.519,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14466977632,1695,0,,,,,,,,,,0.004,2416.517,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14466979328,43711,0,,,,,,,,,,0.852,19490.472,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+14467155548,70887074,373,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14538044095,2271,374,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14538047838,2240,375,8,32,1,32,8,1,29,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"convolution3D_kernel(float *, float *, int)"
+14538525266,1759,0,,,,,,,,,,0.004,2328.592,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Device-to-Host]
+14538527026,3328,0,,,,,,,,,,0.061,18461.491,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Device-to-Host]

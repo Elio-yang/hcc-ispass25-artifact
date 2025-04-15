@@ -1,0 +1,47 @@
+Start (ns),Duration (ns),CorrId,GrdX,GrdY,GrdZ,BlkX,BlkY,BlkZ,Reg/Trd,StcSMem (MB),DymSMem (MB),Bytes (MB),Throughput (MB/s),SrcMemKd,DstMemKd,Device,Ctx,GreenCtx,Strm,Name
+1421988282,1856,125,,,,,,,,,,0.008,4310.344,Device,,NVIDIA H100 NVL (0),1,,7,[CUDA memset]
+1422176286,11008,132,,,,,,,,,,0.164,14883.717,Pageable,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1422209982,1184,133,,,,,,,,,,0.001,466.216,Pageable,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1422244415,1184,134,,,,,,,,,,0.008,6756.752,Pageable,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1422278975,1185,135,,,,,,,,,,0.008,6751.048,Pageable,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1422313536,1856,136,,,,,,,,,,0.008,4310.344,Pageable,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1422350113,1184,137,,,,,,,,,,0.004,3378.376,Pageable,Device,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Host-to-Device]
+1469132268,138946,138,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1469275438,2272,139,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1469283054,46977,140,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1469334575,87426,141,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1469423313,137699,142,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1469562419,1824,143,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1469565620,46976,144,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1469613972,86498,145,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1469701910,138402,146,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1469841784,1665,147,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1469844920,46817,148,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1469893241,83682,149,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1469978491,136738,150,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1470116637,1664,151,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1470119741,46785,152,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1470168030,48577,153,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1470218047,137186,154,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1470356706,1632,155,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1470359810,46816,156,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1470408163,84385,157,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1470493956,136419,158,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1470631911,1664,159,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1470635015,46785,160,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1470683335,77986,161,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1470762729,137666,162,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1470901963,1632,163,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1470905068,46817,164,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1470953356,88418,165,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1471043310,136131,166,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1471180849,1663,167,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1471183952,46817,168,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1471232305,39105,169,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1471272946,136867,170,2,1,1,512,1,1,42,0.004,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"likelihood_kernel(double *, double *, double *, double *, double *, int *, int *, double *, unsigned char *, double *, double *, int, int, int, int, int, int, int *, double *)"
+1471411221,1632,171,2,1,1,512,1,1,30,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"sum_kernel(double *, int)"
+1471414293,46848,172,2,1,1,512,1,1,27,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"normalize_weights_kernel(double *, int, double *, double *, double *, int *)"
+1471462614,78273,173,2,1,1,512,1,1,16,0.000,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"find_index_kernel(double *, double *, double *, double *, double *, double *, double *, int)"
+1471632857,1535,185,,,,,,,,,,0.008,5211.720,Device,Pageable,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Device-to-Host]
+1471670137,1248,186,,,,,,,,,,0.008,6410.256,Device,Pageable,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Device-to-Host]
+1471702074,1120,187,,,,,,,,,,0.008,7142.856,Device,Pageable,NVIDIA H100 NVL (0),1,,7,[CUDA memcpy Device-to-Host]

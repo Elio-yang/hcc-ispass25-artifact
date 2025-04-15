@@ -1,0 +1,12 @@
+**/__pycache__
+data
+checkpoint
+runs
+nor-b1024.zip
+normal-dnn-amp
+*.zip
+*.pth
+
+cc-test-log/
+mylogs/
+nor-test-log/

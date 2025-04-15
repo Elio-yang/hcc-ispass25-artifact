@@ -1,0 +1,2 @@
+#!/bin/bash
+./gaussian -f ../../../data/gaussian/matrix256.txt

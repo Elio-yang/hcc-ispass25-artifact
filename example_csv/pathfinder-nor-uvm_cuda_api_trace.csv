@@ -1,0 +1,13 @@
+Start (ns),Duration (ns),Name,Result,CorrID,Pid,Tid,T-Pri,Thread Name
+196614441,3903,cuModuleGetLoadingMode,0,1,4975,4975,20,pathfinder
+1155860413,184667785,cudaMallocManaged,0,119,4975,4975,20,pathfinder
+1340530485,21696,cudaMallocManaged,0,120,4975,4975,20,pathfinder
+1342651223,80725,cudaMallocManaged,0,121,4975,4975,20,pathfinder
+1381701530,241673,cudaLaunchKernel,0,122,4975,4975,20,pathfinder
+1381944339,7297,cudaLaunchKernel,0,123,4975,4975,20,pathfinder
+1381952113,6335,cudaLaunchKernel,0,124,4975,4975,20,pathfinder
+1381958767,4877,cudaLaunchKernel,0,125,4975,4975,20,pathfinder
+1381963957,6498,cudaLaunchKernel,0,126,4975,4975,20,pathfinder
+1402888182,862357,cudaFree,0,127,4975,4975,20,pathfinder
+1403751971,68679,cudaFree,0,128,4975,4975,20,pathfinder
+1403821062,81173,cudaFree,0,129,4975,4975,20,pathfinder

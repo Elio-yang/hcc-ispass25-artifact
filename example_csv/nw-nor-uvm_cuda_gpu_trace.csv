@@ -1,0 +1,708 @@
+Start (ns),Duration (ns),CorrId,GrdX,GrdY,GrdZ,BlkX,BlkY,BlkZ,Reg/Trd,StcSMem (MB),DymSMem (MB),Bytes (MB),Throughput (MB/s),SrcMemKd,DstMemKd,Device,Ctx,GreenCtx,Strm,Name
+448179526,584720,120,1,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+448508047,2463,0,,,,,,,,,,0.004,1663.009,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448510511,3168,0,,,,,,,,,,0.061,19393.905,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448571153,2399,0,,,,,,,,,,0.008,3414.753,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448573553,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448575665,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448577777,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448579857,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448582225,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448584305,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448586417,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448588497,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448590609,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448592721,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448594961,2080,0,,,,,,,,,,0.004,1969.230,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448597042,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448599154,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448601234,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448603538,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448605650,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448607730,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448609874,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448611954,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448614098,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448616210,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448618322,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448620434,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448622578,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448624690,2112,0,,,,,,,,,,0.004,1939.390,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448626803,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448628883,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448631187,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448633267,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448635411,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448637523,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448639603,4352,0,,,,,,,,,,0.127,29176.418,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448685012,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448687188,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448689300,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448691572,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448693716,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448695860,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448697940,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448700116,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448702196,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448704340,2399,0,,,,,,,,,,0.012,5122.130,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448706740,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448708980,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448711124,2112,0,,,,,,,,,,0.004,1939.390,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448713237,2080,0,,,,,,,,,,0.004,1969.230,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448748726,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448750806,4416,0,,,,,,,,,,0.127,28753.588,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+448765366,357066,121,2,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449047870,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449049982,6560,0,,,,,,,,,,0.258,39336.579,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449102175,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449104351,6816,0,,,,,,,,,,0.258,37858.996,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449123584,5088,122,3,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449129760,421515,123,4,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449426440,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449428584,11392,0,,,,,,,,,,0.520,45662.454,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449522187,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449524267,11521,0,,,,,,,,,,0.520,45151.625,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449552363,5280,124,5,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449558763,4929,125,6,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449564844,5088,126,7,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449571020,461389,127,8,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+449888757,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449890901,20865,0,,,,,,,,,,1.044,50058.793,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449992760,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+449994936,20864,0,,,,,,,,,,1.044,50060.882,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450033529,4768,128,9,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450039353,5376,129,10,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450045817,5088,130,11,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450051993,5089,131,12,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450058170,4992,132,13,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450064122,4992,133,14,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450070202,5344,134,15,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450076762,310505,135,16,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450325185,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450327553,3264,0,,,,,,,,,,0.061,18823.496,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450371810,2559,0,,,,,,,,,,0.004,1600.623,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450374370,3361,0,,,,,,,,,,0.061,18280.243,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450388387,457101,136,17,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+450685131,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450687307,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450689483,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450691723,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450693931,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450696139,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450698315,2528,0,,,,,,,,,,0.004,1620.251,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450700844,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450703116,2463,0,,,,,,,,,,0.004,1663.009,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450705580,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450707788,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450710028,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450712204,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450714348,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450716620,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450718828,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450721004,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450723308,4449,0,,,,,,,,,,0.127,28540.269,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450767661,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450769933,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450772237,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450774637,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450777005,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450779213,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450781549,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450783917,2592,0,,,,,,,,,,0.020,7901.225,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450786510,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450788718,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450791086,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450793262,2272,0,,,,,,,,,,0.004,1802.813,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450830159,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450832335,4512,0,,,,,,,,,,0.127,28141.818,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+450846608,351721,137,18,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451125879,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451128055,6784,0,,,,,,,,,,0.258,38037.565,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451178489,2399,0,,,,,,,,,,0.004,1707.377,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451180889,6848,0,,,,,,,,,,0.258,37682.233,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451199513,4992,138,19,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451205657,380267,139,20,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451485185,2240,0,,,,,,,,,,0.004,1828.569,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451487426,11519,0,,,,,,,,,,0.520,45159.428,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451557315,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451559619,11616,0,,,,,,,,,,0.520,44782.289,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451586916,5248,140,21,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451593220,5056,141,22,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451599492,5025,142,23,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451605637,473997,143,24,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+451935854,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+451938062,20992,0,,,,,,,,,,1.044,49755.894,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452040336,2336,0,,,,,,,,,,0.004,1753.424,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452042673,21120,0,,,,,,,,,,1.044,49454.039,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452080658,5056,144,25,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452086866,5023,145,26,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452093009,4992,146,27,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452098961,5057,147,28,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452105170,4960,148,29,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452111154,5056,149,30,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452117426,4960,150,31,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452123602,290440,151,32,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452351705,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452354009,3360,0,,,,,,,,,,0.061,18285.711,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452398362,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452400570,3264,0,,,,,,,,,,0.061,18823.496,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452415162,325705,152,33,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452579423,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452581631,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452583839,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452586175,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452588351,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452590783,2559,0,,,,,,,,,,0.004,1600.623,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452593343,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452595647,2304,0,,,,,,,,,,0.004,1777.775,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452597952,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452600320,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452602496,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452604704,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452606880,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452609088,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452611296,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452613472,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452615648,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452617888,4480,0,,,,,,,,,,0.127,28342.821,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452662626,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452664834,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452667138,2591,0,,,,,,,,,,0.004,1580.855,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452669730,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452672066,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452674338,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452676674,2495,0,,,,,,,,,,0.004,1641.681,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452679170,2623,0,,,,,,,,,,0.020,7807.836,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452681794,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452684034,2368,0,,,,,,,,,,0.004,1729.729,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452686403,2590,0,,,,,,,,,,0.004,1581.466,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452688994,2304,0,,,,,,,,,,0.004,1777.775,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452725955,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452728131,4480,0,,,,,,,,,,0.127,28342.821,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452742019,213031,153,34,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452893128,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452895336,6752,0,,,,,,,,,,0.258,38217.941,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452935977,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452938185,6816,0,,,,,,,,,,0.258,37858.996,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+452956202,5152,154,35,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+452962378,276743,155,36,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453148654,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453150830,11521,0,,,,,,,,,,0.520,45151.625,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453211857,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453214033,11648,0,,,,,,,,,,0.520,44659.003,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453240178,5344,156,37,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453246578,4992,157,38,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453252594,4960,158,39,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453258578,302024,159,40,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453425687,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453427863,21056,0,,,,,,,,,,1.044,49604.444,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453520985,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453523129,21025,0,,,,,,,,,,1.044,49677.558,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453561819,5056,160,41,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453567995,4992,161,42,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453574171,4928,162,43,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453580155,4960,163,44,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453586170,4961,164,45,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453592155,4992,165,46,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453598203,4992,166,47,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453604347,145348,167,48,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453700766,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453703038,3296,0,,,,,,,,,,0.061,18640.773,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453734335,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453736543,3264,0,,,,,,,,,,0.061,18823.496,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453750879,318985,168,49,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+453915332,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453917540,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453919780,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453921956,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453924164,2623,0,,,,,,,,,,0.004,1561.567,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453926788,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453928964,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453931300,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453933508,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453935716,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453937924,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453940132,2272,0,,,,,,,,,,0.004,1802.813,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453942405,2463,0,,,,,,,,,,0.004,1663.009,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453944869,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453947141,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453949349,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453951557,2527,0,,,,,,,,,,0.004,1620.894,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453954085,4544,0,,,,,,,,,,0.127,27943.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453993574,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453995814,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+453998086,2816,0,,,,,,,,,,0.004,1454.543,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454000903,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454003079,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454005287,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454007559,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454009767,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454012135,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454014311,2431,0,,,,,,,,,,0.012,5054.706,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454016743,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454018951,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454021127,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454023367,2176,0,,,,,,,,,,0.004,1882.350,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454055079,2208,0,,,,,,,,,,0.004,1855.070,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454057288,4544,0,,,,,,,,,,0.127,27943.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454070920,236327,169,50,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454246893,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454249261,6848,0,,,,,,,,,,0.258,37682.233,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454287854,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454290094,6817,0,,,,,,,,,,0.258,37853.577,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454308303,5088,170,51,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454314447,238886,171,52,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454464435,2208,0,,,,,,,,,,0.004,1855.070,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454466644,11488,0,,,,,,,,,,0.520,45281.153,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454525429,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454527637,11584,0,,,,,,,,,,0.520,44905.574,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454554486,5344,172,53,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454560982,4992,173,54,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454567030,4992,174,55,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454573238,288616,175,56,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454728474,2304,0,,,,,,,,,,0.004,1777.775,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454730779,21088,0,,,,,,,,,,1.044,49529.242,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454822301,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454824509,21120,0,,,,,,,,,,1.044,49454.039,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+454862878,5120,176,57,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454869022,4992,177,58,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454875167,4992,178,59,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454881151,4992,179,60,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454887135,4960,180,61,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454893087,4960,181,62,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454899167,4960,182,63,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+454905312,153540,183,64,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455000258,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455002562,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455004834,3456,0,,,,,,,,,,0.057,16592.544,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455034275,2495,0,,,,,,,,,,0.004,1641.681,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455036771,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455039107,3168,0,,,,,,,,,,0.057,18100.978,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455059972,322312,184,65,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455214600,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455216776,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455219016,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455221224,2687,0,,,,,,,,,,0.004,1524.376,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455223912,2368,0,,,,,,,,,,0.004,1729.729,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455226281,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455228489,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455230793,2302,0,,,,,,,,,,0.004,1779.319,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455233096,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455235368,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455237704,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455240008,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455242312,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455244584,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455246888,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455249160,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455251528,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455253800,2208,0,,,,,,,,,,0.004,1855.070,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455256009,4736,0,,,,,,,,,,0.123,25945.866,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455296906,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455299242,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455301514,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455303722,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455305994,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455308170,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455310410,2559,0,,,,,,,,,,0.004,1600.623,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455312970,2208,0,,,,,,,,,,0.004,1855.070,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455315179,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455317547,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455319883,2943,0,,,,,,,,,,0.012,4175.327,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455322827,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455325003,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455327211,2176,0,,,,,,,,,,0.004,1882.350,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455357868,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455360140,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455362316,4896,0,,,,,,,,,,0.123,25097.994,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455383404,202982,185,66,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455526705,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455529009,2174,0,,,,,,,,,,0.004,1884.082,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455531184,6688,0,,,,,,,,,,0.254,37971.157,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455567441,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455569617,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455571793,6657,0,,,,,,,,,,0.254,38147.908,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455587410,5152,186,67,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455593554,234119,187,68,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455740502,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455742678,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455744886,11585,0,,,,,,,,,,0.516,44548.375,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455800792,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455803160,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455805336,11521,0,,,,,,,,,,0.516,44796.101,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+455828761,5343,188,69,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455835160,5025,189,70,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455841401,4992,190,71,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455847609,286088,191,72,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+455997821,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456000125,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456002237,20929,0,,,,,,,,,,1.040,49709.548,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456092928,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456095232,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456097440,20865,0,,,,,,,,,,1.040,49862.484,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456134849,5184,192,73,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456141249,4992,193,74,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456147361,4960,194,75,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456153313,5024,195,76,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456159521,5025,196,77,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456165698,4960,197,78,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456171746,4992,198,79,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456177890,187750,199,80,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456299685,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456301989,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456304293,3681,0,,,,,,,,,,0.057,15578.358,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456341415,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456343495,2047,0,,,,,,,,,,0.004,2000.974,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456345543,3712,0,,,,,,,,,,0.057,15448.244,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456366856,305640,200,81,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456514956,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456517196,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456519532,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456521708,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456523980,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456526284,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456528556,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456530860,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456533132,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456535276,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456537484,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456539660,2176,0,,,,,,,,,,0.004,1882.350,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456541837,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456544013,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456546349,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456548525,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456550701,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456552909,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456555085,4416,0,,,,,,,,,,0.123,27826.053,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456588333,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456590413,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456592493,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456594573,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456596717,2080,0,,,,,,,,,,0.004,1969.230,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456598798,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456600878,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456602990,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456605102,2367,0,,,,,,,,,,0.020,8652.288,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456607470,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456609614,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456611726,2400,0,,,,,,,,,,0.004,1706.664,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456649007,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456651087,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456653199,4737,0,,,,,,,,,,0.123,25940.460,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456673712,201990,201,82,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456815988,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456818196,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456820404,6752,0,,,,,,,,,,0.254,37611.307,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456856341,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456858453,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456860533,6785,0,,,,,,,,,,0.254,37428.208,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+456876853,5216,202,83,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+456883221,234823,203,84,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457031545,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457033817,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457036185,11521,0,,,,,,,,,,0.516,44796.101,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457090907,2079,0,,,,,,,,,,0.004,1970.176,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457092987,2112,0,,,,,,,,,,0.004,1939.390,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457095100,11328,0,,,,,,,,,,0.516,45558.890,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457119164,5345,204,85,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457125661,5088,205,86,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457131901,4960,206,87,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457138077,284936,207,88,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457287137,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457289345,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457291521,20929,0,,,,,,,,,,1.040,49709.548,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457381923,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457384067,2143,0,,,,,,,,,,0.004,1911.337,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457386211,20929,0,,,,,,,,,,1.040,49709.548,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457424069,5216,208,89,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457430437,5024,209,90,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457436549,4992,210,91,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457442533,4961,211,92,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457448486,5024,212,93,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457454662,5024,213,94,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457460934,4960,214,95,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457467110,160004,215,96,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457560040,2240,0,,,,,,,,,,0.004,1828.569,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457562281,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457564489,3712,0,,,,,,,,,,0.057,15448.244,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457601994,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457604202,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457606378,3584,0,,,,,,,,,,0.057,15999.951,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457628202,313160,216,97,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+457773711,2334,0,,,,,,,,,,0.004,1754.927,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457776046,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457778414,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457780654,2111,0,,,,,,,,,,0.004,1940.312,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457782766,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457785038,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457787214,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457789390,2751,0,,,,,,,,,,0.004,1488.912,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457792142,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457794414,2272,0,,,,,,,,,,0.004,1802.813,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457796687,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457798863,2495,0,,,,,,,,,,0.004,1641.681,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457801359,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457803567,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457805775,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457808079,2495,0,,,,,,,,,,0.004,1641.681,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457810575,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457812911,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457815119,4672,0,,,,,,,,,,0.123,26301.358,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457855569,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457857937,2559,0,,,,,,,,,,0.004,1600.623,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457860497,2431,0,,,,,,,,,,0.004,1684.902,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457862929,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457865105,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457867345,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457869585,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457871761,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457873969,2623,0,,,,,,,,,,0.020,7807.836,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457876593,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457878769,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457881137,2209,0,,,,,,,,,,0.004,1854.231,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457917395,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457919571,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457921779,4927,0,,,,,,,,,,0.123,24940.093,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+457942579,210022,217,98,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458086006,2368,0,,,,,,,,,,0.004,1729.729,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458088375,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458090551,6720,0,,,,,,,,,,0.254,37790.343,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458133144,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458135320,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458137560,6688,0,,,,,,,,,,0.254,37971.157,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458153593,5280,218,99,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458159929,272839,219,100,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458332094,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458334334,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458336670,11520,0,,,,,,,,,,0.516,44799.713,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458392191,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458394559,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458396735,11488,0,,,,,,,,,,0.516,44924.609,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458433792,5345,220,101,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458440161,4992,221,102,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458446209,4960,222,103,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458452353,324617,223,104,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458641958,2240,0,,,,,,,,,,0.004,1828.569,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458644199,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458646375,20992,0,,,,,,,,,,1.040,49560.773,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458737289,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458739465,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458741641,20929,0,,,,,,,,,,1.040,49709.548,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458778122,5216,224,105,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458784490,5057,225,106,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458790635,5024,226,107,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458796811,5024,227,108,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458803019,5024,228,109,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458809227,5024,229,110,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458815467,4961,230,111,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458821675,155236,231,112,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+458910894,2591,0,,,,,,,,,,0.004,1580.855,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458913486,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458915726,3264,0,,,,,,,,,,0.057,17568.596,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458952335,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458954607,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458956815,3136,0,,,,,,,,,,0.057,18285.683,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+458977999,308841,232,113,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459127027,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459129363,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459131571,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459133811,2591,0,,,,,,,,,,0.004,1580.855,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459136403,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459138611,2208,0,,,,,,,,,,0.004,1855.070,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459140820,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459143124,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459145332,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459147508,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459149812,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459152116,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459154388,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459156724,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459159060,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459161396,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459163604,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459165940,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459168116,4513,0,,,,,,,,,,0.123,27227.996,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459202582,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459204758,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459207030,2495,0,,,,,,,,,,0.004,1641.681,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459209526,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459211702,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459213942,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459216118,2367,0,,,,,,,,,,0.004,1730.458,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459218486,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459220662,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459222934,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459225142,2464,0,,,,,,,,,,0.012,4987.011,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459227607,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459229815,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459231991,2240,0,,,,,,,,,,0.004,1828.569,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459262584,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459264760,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459267096,4799,0,,,,,,,,,,0.123,25605.243,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459287928,196965,233,114,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459425179,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459427387,2303,0,,,,,,,,,,0.004,1778.549,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459429691,6721,0,,,,,,,,,,0.254,37784.756,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459465565,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459467805,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459469981,6688,0,,,,,,,,,,0.254,37971.157,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459486013,5217,234,115,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459492382,235526,235,116,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459641186,2335,0,,,,,,,,,,0.004,1754.173,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459643522,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459645698,11552,0,,,,,,,,,,0.516,44675.850,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459700772,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459702980,2271,0,,,,,,,,,,0.004,1803.608,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459705252,11456,0,,,,,,,,,,0.516,45050.020,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459729028,5344,236,117,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459735524,5056,237,118,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459741732,5024,238,119,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459747908,284008,239,120,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+459897384,2336,0,,,,,,,,,,0.004,1753.424,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459899721,2175,0,,,,,,,,,,0.004,1883.218,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459901897,24576,0,,,,,,,,,,1.040,42333.225,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459991916,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459994124,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+459996332,20992,0,,,,,,,,,,1.040,49560.773,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460033036,5248,240,121,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460039404,5056,241,122,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460045549,5024,242,123,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460051757,5024,243,124,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460057933,5184,244,125,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460064077,5120,245,126,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460070349,5025,246,127,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460076526,165732,247,128,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_1(int *, int *, int, int, int, int)"
+460177680,2207,0,,,,,,,,,,0.004,1855.910,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460179888,2687,0,,,,,,,,,,0.004,1524.376,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460182576,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460184816,2400,0,,,,,,,,,,0.008,3413.328,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460218897,2400,0,,,,,,,,,,0.008,3413.328,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460221298,2239,0,,,,,,,,,,0.004,1829.384,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460223538,2400,0,,,,,,,,,,0.008,3413.328,Unknown,Unknown,NVIDIA H100 NVL (0),0,,0,[CUDA memcpy Unified Host-to-Device]
+460246994,5505,248,127,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460253715,5024,249,126,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460259827,5120,250,125,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460265971,5120,251,124,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460272147,4992,252,123,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460278324,5088,253,122,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460284564,5184,254,121,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460290900,5152,255,120,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460297300,5120,256,119,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460303636,5089,257,118,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460309749,5120,258,117,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460315925,5119,259,116,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460322132,5056,260,115,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460328308,5056,261,114,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460334516,5089,262,113,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460340661,5120,263,112,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460346837,5152,264,111,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460353205,5120,265,110,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460359317,5184,266,109,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460365493,5217,267,108,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460371862,5024,268,107,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460378038,5088,269,106,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460384278,5056,270,105,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460390454,5217,271,104,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460396823,5280,272,103,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460403159,5408,273,102,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460409655,5088,274,101,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460415831,5088,275,100,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460422007,5217,276,99,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460428376,5120,277,98,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460434648,5184,278,97,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460440984,5216,279,96,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460447352,5088,280,95,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460453497,5184,281,94,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460459801,5056,282,93,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460465977,5087,283,92,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460472152,5120,284,91,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460478328,5249,285,90,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460484729,5248,286,89,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460491097,5088,287,88,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460497273,5248,288,87,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460503609,5152,289,86,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460509945,5217,290,85,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460516282,5280,291,84,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460522650,5408,292,83,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460529210,5184,293,82,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460535642,5184,294,81,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460541979,5120,295,80,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460548155,5120,296,79,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460554299,5216,297,78,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460560603,5088,298,77,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460566779,5345,299,76,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460573116,5216,300,75,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460579484,5216,301,74,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460585916,5184,302,73,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460592284,5056,303,72,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460598524,5185,304,71,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460604861,5408,305,70,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460611357,5119,306,69,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460617532,5120,307,68,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460623740,5153,308,67,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460629885,5280,309,66,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460636317,5056,310,65,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460642493,5216,311,64,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460648861,5280,312,63,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460655165,5217,313,62,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460661470,5376,314,61,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460667838,5216,315,60,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460674174,5152,316,59,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460680286,5312,317,58,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460686718,5249,318,57,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460693087,5184,319,56,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460699487,5152,320,55,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460705823,5344,321,54,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460712159,5025,322,53,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460718336,5248,323,52,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460724672,5248,324,51,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460731008,5248,325,50,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460737440,5216,326,49,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460743776,5281,327,48,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460750177,5248,328,47,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460756545,5312,329,46,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460762849,5215,330,45,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460769216,5248,331,44,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460776033,5440,332,43,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460782625,5344,333,42,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460789057,5152,334,41,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460795425,5248,335,40,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460801793,5313,336,39,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460808130,5376,337,38,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460814658,5184,338,37,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460821026,5184,339,36,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460827810,5313,340,35,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460834179,5376,341,34,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460840611,5216,342,33,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460846947,5152,343,32,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460853347,5312,344,31,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460859875,5409,345,30,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460866340,5152,346,29,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460872516,5248,347,28,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460878884,5216,348,27,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460885252,5216,349,26,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460891685,5120,350,25,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460897861,5120,351,24,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460904005,5504,352,23,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460910725,5439,353,22,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460917220,5249,354,21,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460923621,5184,355,20,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460929797,5152,356,19,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460935909,5216,357,18,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460942149,5120,358,17,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460948293,5217,359,16,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460954694,5184,360,15,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460961030,5376,361,14,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460967526,5024,362,13,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460973510,5120,363,12,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460979687,4928,364,11,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460985671,5024,365,10,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460991911,5184,366,9,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+460998279,5248,367,8,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461004647,4833,368,7,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461010632,4896,369,6,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461016584,4992,370,5,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461022536,4960,371,4,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461028552,5088,372,3,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461034728,4897,373,2,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"
+461040809,4992,374,1,1,1,16,1,1,32,0.002,0.000,,,,,NVIDIA H100 NVL (0),1,,7,"needle_cuda_shared_2(int *, int *, int, int, int, int)"

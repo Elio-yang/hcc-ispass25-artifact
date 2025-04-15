@@ -1,0 +1,2 @@
+API Start (ns),API Dur (ns),Queue Start (ns),Queue Dur (ns),Kernel Start (ns),Kernel Dur (ns),Total Dur (ns),PID,TID,DevId,API Function,GridXYZ,BlockXYZ,Kernel Name
+195588297,164338264,,,359923795,13107211742,13271547240,2615,2615,0,cudaLaunchKernel,  32    1    1,   1    1    1,foo()

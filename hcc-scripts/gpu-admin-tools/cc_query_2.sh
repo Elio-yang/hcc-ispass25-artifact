@@ -1,0 +1,1 @@
+sudo python3 ./nvidia_gpu_tools.py --gpu-bdf=d8:00.0  --query-cc-mode

@@ -1,0 +1,7 @@
+*.log
+*.qcow2
+vmlinuz
+*.fd
+.vscode/
+output/
+__pycache__/
