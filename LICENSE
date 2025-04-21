@@ -29,7 +29,7 @@ This project uses third-party components:
    See `hcc-scripts/tdx-tools-2023ww15/LICENSE` for details.
 
 2. **[gpu-admin-tools]** – licensed under the **MIT License**  
-   © 2018–2023 NVIDIA Corporation & Affiliates  
+   © 2024 NVIDIA Corporation & Affiliates  
    See `hcc-scripts/gpu-admin-tools` source files for details.
 
 3. **[uvm_bench]** – licensed under the **MIT License**  
